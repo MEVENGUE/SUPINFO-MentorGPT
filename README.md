@@ -340,11 +340,11 @@ Ce projet est un projet académique pour SUPINFO.
 
 ---
 
-## 🙏 Remerciements
+##  Sources : 
 
-- SUPINFO pour l'accès aux données académiques
-- La communauté open-source pour les outils utilisés
-- Tous les contributeurs du projet
+- SUPINFO : https://www.supinfo.com/ecole-informatique-paris/
+- La communauté open-source pour les outils utilisés 
+
 
 ---
 
