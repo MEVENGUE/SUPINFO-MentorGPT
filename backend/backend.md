@@ -18,7 +18,6 @@
 ![Images](./images/cycle%20de%20vie%20SUPINFO%20MentorGPT.png)  
 
 
-
 Le backend de SUPINFO Mentor AI est une API REST construite avec **FastAPI** qui fournit :
 
 - **RAG (Retrieval-Augmented Generation)** : Recherche sémantique dans les documents SUPINFO
