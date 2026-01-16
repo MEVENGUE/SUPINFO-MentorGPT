@@ -338,7 +338,7 @@ Ce projet est un projet académique pour SUPINFO.
 
 ---
 
-##  Sources : 
+## 🔗 Sources : 
 
 - SUPINFO : https://www.supinfo.com/ecole-informatique-paris/
 - La communauté open-source pour les outils utilisés  :  @Indev : https://square.lndev.me/
