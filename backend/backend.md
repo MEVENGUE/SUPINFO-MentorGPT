@@ -15,7 +15,7 @@
 ## 🎯 Vue d'ensemble
 
 
-![Images](./images/cycle%20de%20vie%20SUPINFO%20MentorGPT.png)  
+![Images](./SUPINFO-MentorGPT/images/cycle%20de%20vie%20SUPINFO%20MentorGPT.png)  
 
 
 Le backend de SUPINFO Mentor AI est une API REST construite avec **FastAPI** qui fournit :
