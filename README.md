@@ -2,7 +2,7 @@
 
 # 🎓 SUPINFO Mentor AI
 
-<img width="1056" height="992" alt="image" src="https://github.com/user-attachments/assets/0fb6f87b-1408-49b1-a323-db7d4654c6e9" />
+<img width="2704" height="1800" alt="image" src="https://github.com/user-attachments/assets/0fb6f87b-1408-49b1-a323-db7d4654c6e9" />
 
 
 **Assistant IA académique intelligent pour SUPINFO**
@@ -102,8 +102,8 @@
 #### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/MEVENGUE/SUPINFO-Mentor-AI.git
-cd SUPINFO-Mentor-AI
+git clone https://github.com/.......
+cd .....
 ```
 
 #### 2. Configuration Backend
@@ -183,9 +183,9 @@ L'application sera accessible sur :
 
 ### 🎯 Guides rapides
 
-- **[🔐 Configuration OAuth](./docs/GOOGLE_OAUTH_SETUP.md)** : Google, GitHub, Microsoft
-- **[🚢 Déploiement](./docs/DEPLOYMENT.md)** : Vercel + Railway
-- **[🗄️ Configuration MySQL](./backend/MYSQL_SETUP.md)** : Migration SQLite → MySQL
+- **[🔐 Configuration OAuth]** : Google, GitHub, Microsoft
+- **[🚢 Déploiement]** : Vercel + Railway
+- **[🗄️ Configuration MySQL]** : Migration SQLite → MySQL
 
 ---
 
@@ -264,8 +264,8 @@ SUPINFO-Mentor-AI/
 - **Light** : Thème clair par défaut
 - **Dark** : Thème sombre
 - **Pastel** : Palette pastel douce
-- **Girl** : Thème féminin
-- **Boy** : Thème masculin
+- **Girl** : Thème Rose
+- **Boy** : Thème Bleu
 - **Cyber** : Thème cyberpunk
 
 ---
