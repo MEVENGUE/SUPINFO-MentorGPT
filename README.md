@@ -91,6 +91,86 @@
 
 ---
 
+
+### 🌐 Vue d’ensemble globale
+
+![Architecture globale](./images/architecture%20globale.png)
+
+**SUPINFO Mentor AI** repose sur une architecture **frontend/backend découplée**, orientée **scalabilité et sécurité**.
+
+---
+
+### 🔁 Flux principal – Message de chat (RAG)
+
+![Message de chat RAG](./images/Message%20de%20chat%20(RAG).png)
+
+1. Analyse d’intention utilisateur  
+2. Enrichissement du contexte académique  
+3. Recherche sémantique (ChromaDB)  
+4. Génération IA (OpenAI)  
+5. Sauvegarde & réponse contextualisée  
+
+---
+
+### 🧠 RAG détaillé (Retrieval-Augmented Generation)
+
+![Diagramme RAG détaillé](./images/Diagramme%20RAG%20d%C3%A9taill%C3%A9.png)
+
+Le moteur RAG garantit :
+- réponses **fondées sur des sources SUPINFO**
+- réduction des hallucinations
+- traçabilité documentaire
+
+---
+
+### 🔐 Authentification & sécurité
+
+![Authentification OAuth + Credentials](./images/Diagramme%20Authentification%20(OAuth%20+%20Credentials).png)
+
+- OAuth : Google, GitHub, Microsoft
+- Credentials : email / mot de passe
+- Gestion des rôles : Guest, User, Admin
+
+---
+
+### 👑 Admin & Notifications
+
+![Admin & Notifications](./images/Diagramme%20Admin%20%26%20Notifications.png)
+
+- Création de notifications globales ou ciblées
+- Activation / désactivation
+- Lecture utilisateur tracée
+
+---
+
+### 🧩 Rôles & permissions
+
+![Rôles et permissions](./images/Diagramme%20des%20r%C3%B4les%20%26%20permissions.png)
+
+- **Guest** : accès limité
+- **User** : fonctionnalités complètes
+- **Admin** : gestion globale
+
+---
+
+### 🚢 Déploiement
+
+![Déploiement Vercel + Railway](./images/Diagramme%20de%20d%C3%A9ploiement%20(Vercel%20+%20Railway).png)
+
+- **Frontend** : Vercel (Next.js)
+- **Backend** : Railway (FastAPI)
+- **Base vectorielle** : ChromaDB
+- **DB** : MySQL / SQLite
+
+---
+
+## 📚 Documentation
+
+- 📘 [Backend](./docs/backend.md)
+- 📗 [Frontend](./docs/frontend.md)
+
+---
+
 ## 🚀 Démarrage rapide
 
 ### Prérequis
@@ -104,8 +184,13 @@
 #### 1. Cloner le repository
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/.......
 cd .....
+=======
+git clone https://github.com/....... # (cloner répertoire)
+cd ......... # (répertoire dossier)
+>>>>>>> 5646ba0 (update)
 ```
 
 #### 2. Configuration Backend
@@ -264,11 +349,34 @@ SUPINFO-Mentor-AI/
 ### Thèmes disponibles
 
 - **Light** : Thème clair par défaut
+
+
+![Theme Light](./images/page%20accueil%20theme%20clair.jpg)            
+
 - **Dark** : Thème sombre
+
+![Theme Dark](./images/page%20accueil%20theme%20sombre.jpg) 
+
 - **Pastel** : Palette pastel douce
+<<<<<<< HEAD
 - **Girl** : Thème Rose
 - **Boy** : Thème Bleu
+=======
+
+![Theme Pastel](./images/page%20accueil%20theme%20pastel.jpg) 
+
+- **Girl** : Thème féminin
+
+![Theme Girl](./images/page%20accueil%20theme%20girl.jpg) 
+
+- **Boy** : Thème masculin
+
+![Theme Boy](./images/page%20accueil%20theme%20boy.jpg) 
+
+>>>>>>> 5646ba0 (update)
 - **Cyber** : Thème cyberpunk
+
+![Theme Cyber](./images/page%20accueil%20theme%20cyber.jpg) 
 
 ---
 
@@ -338,11 +446,18 @@ Ce projet est un projet académique pour SUPINFO.
 
 ---
 
+<<<<<<< HEAD
 ## 🔗 Sources : 
 
 - SUPINFO : https://www.supinfo.com/ecole-informatique-paris/
 - La communauté open-source pour les outils utilisés  :  @Indev : https://square.lndev.me/
 
+=======
+## 🔗 Sources
+
+- SUPINFO accès aux données académiques : https://www.supinfo.com/ecole-informatique-paris/
+- La communauté open-source outils utilisés : @Indev : https://square.lndev.me/
+>>>>>>> 5646ba0 (update)
 
 ---
 
