@@ -89,6 +89,10 @@
 - **Database** : MySQL (production) / SQLite (dev)
 - **Auth** : bcrypt + JWT
 
+
+[Outils et technologies utilisés](./images/outils%20alls.png)
+
+
 ---
 
 
