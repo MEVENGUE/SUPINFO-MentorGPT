@@ -184,13 +184,9 @@ Le moteur RAG garantit :
 #### 1. Cloner le repository
 
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/.......
-cd .....
-=======
 git clone https://github.com/....... # (cloner répertoire)
+
 cd ......... # (répertoire dossier)
->>>>>>> 5646ba0 (update)
 ```
 
 #### 2. Configuration Backend
@@ -358,10 +354,6 @@ SUPINFO-Mentor-AI/
 ![Theme Dark](./images/page%20accueil%20theme%20sombre.jpg) 
 
 - **Pastel** : Palette pastel douce
-<<<<<<< HEAD
-- **Girl** : Thème Rose
-- **Boy** : Thème Bleu
-=======
 
 ![Theme Pastel](./images/page%20accueil%20theme%20pastel.jpg) 
 
@@ -373,7 +365,6 @@ SUPINFO-Mentor-AI/
 
 ![Theme Boy](./images/page%20accueil%20theme%20boy.jpg) 
 
->>>>>>> 5646ba0 (update)
 - **Cyber** : Thème cyberpunk
 
 ![Theme Cyber](./images/page%20accueil%20theme%20cyber.jpg) 
@@ -446,18 +437,10 @@ Ce projet est un projet académique pour SUPINFO.
 
 ---
 
-<<<<<<< HEAD
-## 🔗 Sources : 
-
-- SUPINFO : https://www.supinfo.com/ecole-informatique-paris/
-- La communauté open-source pour les outils utilisés  :  @Indev : https://square.lndev.me/
-
-=======
 ## 🔗 Sources
 
 - SUPINFO accès aux données académiques : https://www.supinfo.com/ecole-informatique-paris/
 - La communauté open-source outils utilisés : @Indev : https://square.lndev.me/
->>>>>>> 5646ba0 (update)
 
 ---
 
