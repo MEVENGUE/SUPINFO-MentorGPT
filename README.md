@@ -2,6 +2,9 @@
 
 # 🎓 SUPINFO Mentor AI
 
+<img width="1056" height="992" alt="image" src="https://github.com/user-attachments/assets/0fb6f87b-1408-49b1-a323-db7d4654c6e9" />
+
+
 **Assistant IA académique intelligent pour SUPINFO**
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?logo=next.js)](https://nextjs.org/)
