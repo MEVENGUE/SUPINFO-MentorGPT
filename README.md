@@ -357,11 +357,11 @@ SUPINFO-Mentor-AI/
 
 ![Theme Pastel](./images/page%20accueil%20theme%20pastel.jpg) 
 
-- **Girl** : Thème féminin
+- **Girl** : Thème rose vif
 
 ![Theme Girl](./images/page%20accueil%20theme%20girl.jpg) 
 
-- **Boy** : Thème masculin
+- **Boy** : Thème bleu
 
 ![Theme Boy](./images/page%20accueil%20theme%20boy.jpg) 
 
