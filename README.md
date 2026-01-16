@@ -292,8 +292,6 @@ SUPINFO-Mentor-AI/
    - **Start Command** : `uvicorn main:app --host 0.0.0.0 --port $PORT`
 4. Ajouter les variables d'environnement
 
-📖 **[Guide de déploiement complet](./docs/DEPLOYMENT.md)**
-
 ---
 
 ## 🧪 Tests
