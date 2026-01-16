@@ -90,7 +90,7 @@
 - **Auth** : bcrypt + JWT
 
 
-[Outils et technologies utilisés](./images/outils%20alls.png)
+![Outils et technologies utilisés](./images/outils%20alls.png)
 
 
 ---
