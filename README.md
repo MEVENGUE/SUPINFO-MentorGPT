@@ -172,7 +172,7 @@ Le moteur RAG garantit :
 
 - 📘 [Backend](./backend/backend.md)
 - 📗 [Frontend](./frontend/frontend.md)
-- 📕 [Documentation](./docs/SUPINFO_Mentor_AI_Le_Voyage_à_lAtelier_Enchanté.pdf)
+- 📕 [Documentation](./docs/)
 - 📙 [Images](./images/)
   
 ---
@@ -269,7 +269,7 @@ L'application sera accessible sur :
 
 - **[📘 Documentation Backend](./backend/backend.md)** : Architecture détaillée, API REST, services métier, moteur RAG et schéma de base de données.
 - **[📗 Documentation Frontend](./frontend/frontend.md)** : Structure des composants, gestion d’état (stores), routing Next.js, authentification et design system SUPINFO.
-- **[📕 Documentation Projet](./docs/SUPINFO_Mentor_AI_Le_Voyage_à_lAtelier_Enchanté.pdf)** : Présentation pédagogique et narrative du fonctionnement de l’application, expliquée sous forme d’histoire illustrée.
+- **[📕 Documentation Projet](./docs/)** : Présentation pédagogique et narrative du fonctionnement de l’application, expliquée sous forme d’histoire illustrée.
 - **[📙 Images](./images/)** :  Ensemble des diagrammes d’architecture, flux fonctionnels, authentification, RAG, administration et déploiement.
 
 ### 🎯 Guides rapides
